@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chanikya Ommi</h1>
 
 <h3 align="center">
-Full-Stack Developer | Java & JavaScript Enthusiast | Open Source Learner
+Full-Stack Developer | Java & JavaScript Enthusiast | Open Source Contributor
 </h3>
 
 <p align="center">
@@ -21,12 +21,12 @@ Passionate software developer focused on building scalable applications, solving
 
 ## 🚀 About Me
 
-- 💻 Passionate about building scalable and practical software solutions
-- 🌱 Currently learning **React.js, Node.js, Advanced JavaScript, and DSA**
-- 🔍 Exploring **Full-Stack Development, Cloud Technologies, and System Design**
-- 🚀 Building projects to strengthen problem-solving and development skills
-- 🤝 Open to collaboration on innovative projects and open-source contributions
-- 🎯 Aspiring Software Engineer focused on creating impactful products
+- 💻 Full-Stack Developer passionate about building practical and scalable applications
+- 🌱 Currently learning **React.js, Node.js, System Design, and Advanced DSA**
+- 🔍 Exploring modern web technologies, cloud solutions, and software architecture
+- 🚀 Building projects that solve real-world problems
+- 🤝 Open to collaboration, open-source contributions, and learning opportunities
+- 🎯 Aspiring Software Engineer focused on delivering impactful digital solutions
 
 ---
 
@@ -38,70 +38,81 @@ Passionate software developer focused on building scalable applications, solving
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Frontend Development
+### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend Development
+### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 
 ### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Cloud & Tools
+### Tools & Platforms
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### Data & Analytics
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=plotly&logoColor=black)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
 ---
 
 ## 📌 Featured Projects
 
-### 🚀 Project 1
-Brief description of your project and the problem it solves.
+### 🎓 Student Sphere
 
-**Tech Stack:** React, Node.js, MongoDB
+A comprehensive student management platform designed to streamline academic administration and improve student engagement. The system centralizes student records, attendance tracking, academic performance monitoring, course management, and communication between students and faculty.
 
-🔗 Repository: [Project Link](#)
+**Key Features:**
+- Student registration and profile management
+- Attendance tracking system
+- Academic performance monitoring
+- Course and subject management
+- Secure authentication and authorization
+- Responsive and user-friendly interface
 
----
+**Tech Stack:** Java, Spring Boot, React.js, MySQL, REST APIs
 
-### 🚀 Project 2
-Brief description of your project and the problem it solves.
-
-**Tech Stack:** Java, Spring Boot, MySQL
-
-🔗 Repository: [Project Link](#)
-
----
-
-### 🚀 Project 3
-Brief description of your project and the problem it solves.
-
-**Tech Stack:** JavaScript, React
-
-🔗 Repository: [Project Link](#)
+🔗 Repository: https://github.com/chanikyaommi
 
 ---
 
-## 📊 GitHub Statistics
+### 🏢 S Associates Architecture & Interior Design
+
+A professional business website developed for an architecture and interior design firm to showcase its portfolio, services, and design expertise. The platform enables potential clients to explore completed projects, understand available services, and connect with the company seamlessly.
+
+**Key Features:**
+- Modern and responsive design
+- Project portfolio showcase
+- Services and company profile pages
+- Contact and inquiry functionality
+- Mobile-friendly user experience
+- Optimized website performance
+
+**Tech Stack:** React.js, JavaScript, HTML5, CSS3
+
+🔗 Repository: https://github.com/chanikyaommi
+
+---
+
+## 🌱 Currently Focused On
+
+- Data Structures & Algorithms
+- Full-Stack Development
+- System Design Fundamentals
+- Open Source Contributions
+- Building Production-Ready Applications
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chanikyaommi&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -114,32 +125,23 @@ Brief description of your project and the problem it solves.
 
 ---
 
-## 🌱 Current Focus
-
-- Mastering Data Structures & Algorithms
-- Building Full-Stack Applications with React & Node.js
-- Contributing to Open Source Projects
-- Improving System Design and Backend Development Skills
-
----
-
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chanikyaommi&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chanikyaommi&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in discussing technology, software development, open-source contributions, and exciting project ideas.
+I'm always interested in discussing software development, innovative ideas, full-stack applications, and open-source contributions.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chanikya-ommi/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -147,5 +149,9 @@ I'm always interested in discussing technology, software development, open-sourc
 ---
 
 <p align="center">
-  <i>"Consistency beats intensity. Small improvements every day create remarkable results."</i>
+  <img src="https://komarev.com/ghpvc/?username=chanikyaommi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <i>"Turning ideas into impactful software, one project at a time."</i>
 </p>
