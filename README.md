@@ -141,7 +141,7 @@ I'm always interested in discussing software development, innovative ideas, full
   <a href="https://www.linkedin.com/in/chanikya-ommi/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:chanikyaommi@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
